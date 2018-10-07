@@ -22,6 +22,9 @@ Check the `Synopsis` Folder
 5. Collaboration Diagram
 6. State Diagram
 7. PERT Chart
-8. Data Flow Diagram Level 0
-9. Data Flow Diagram Level 1
-10. Data Flow Diagram Level 2
+
+## Data Flow Diagram
+
+8. DFD Level 0
+9. DFD Level 1
+10. DFD Level 2
