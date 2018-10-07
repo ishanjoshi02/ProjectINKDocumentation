@@ -5,6 +5,14 @@ Documentation for Project INK
 
 Check the `SRS` Folder
 
+## Review Paper
+
+A Starter paper for beginners
+
+## Synopsis
+
+Check the `Synopsis` Folder
+
 ## UML Diagrams
 
 1. Use Case
